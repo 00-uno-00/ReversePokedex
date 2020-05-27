@@ -1,0 +1,10 @@
+C:\Users\XZgam\source\repos\Revere Pokedex\Revere Pokedex\bin\Debug\Revere Pokedex.exe.config
+C:\Users\XZgam\source\repos\Revere Pokedex\Revere Pokedex\bin\Debug\Revere Pokedex.exe
+C:\Users\XZgam\source\repos\Revere Pokedex\Revere Pokedex\bin\Debug\Revere Pokedex.pdb
+C:\Users\XZgam\source\repos\Revere Pokedex\Revere Pokedex\obj\Debug\Revere Pokedex.csprojAssemblyReference.cache
+C:\Users\XZgam\source\repos\Revere Pokedex\Revere Pokedex\obj\Debug\Revere_Pokedex.Form1.resources
+C:\Users\XZgam\source\repos\Revere Pokedex\Revere Pokedex\obj\Debug\Revere_Pokedex.Properties.Resources.resources
+C:\Users\XZgam\source\repos\Revere Pokedex\Revere Pokedex\obj\Debug\Revere Pokedex.csproj.GenerateResource.cache
+C:\Users\XZgam\source\repos\Revere Pokedex\Revere Pokedex\obj\Debug\Revere Pokedex.csproj.CoreCompileInputs.cache
+C:\Users\XZgam\source\repos\Revere Pokedex\Revere Pokedex\obj\Debug\Revere Pokedex.exe
+C:\Users\XZgam\source\repos\Revere Pokedex\Revere Pokedex\obj\Debug\Revere Pokedex.pdb
